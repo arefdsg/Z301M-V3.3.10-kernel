@@ -1,0 +1,2 @@
+obj-$(CONFIG_SLIMPORT_COLORADO3)	+= Anx_Co3_Drv/
+obj-$(CONFIG_ANALOGIX_OHIO)	+= Anx_Ohio_Drv/

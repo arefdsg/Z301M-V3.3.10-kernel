@@ -1,0 +1,7 @@
+#
+# Sensor drivers configuration
+#
+
+config HALL_SENSOR
+       bool "Hall sensor"
+       default n

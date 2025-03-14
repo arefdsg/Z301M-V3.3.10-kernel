@@ -1,0 +1,2 @@
+source "drivers/usb/slimport/Anx_Co3_Drv/Kconfig"
+source "drivers/usb/slimport/Anx_Ohio_Drv/Kconfig"

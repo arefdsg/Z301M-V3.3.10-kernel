@@ -1,0 +1,8 @@
+config MTK_ICM20608G
+	bool "ICM20608 for MediaTek package"
+	default n
+	help
+	  It support different accelerometer sensor.
+          If this option is set,
+	  it will support
+          ICM20608 Accelerometer.
